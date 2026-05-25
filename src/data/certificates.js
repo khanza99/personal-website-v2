@@ -92,6 +92,16 @@ const certificates = [
     thumbnail: "/certificates/tunas-harapan.png",
     color: "#F48024",
   },
+  {
+    id: 10,
+    title: "Certificate of Appreciation for Attending International Trade Challenge Competition 2026",
+    issuer: "Sekolah Tunas Harapan Bogor",
+    date: "2025",
+    category: "Art & Music",
+    file: "/certificates/sertif-peserta-itc.pdf",
+    thumbnail: "/certificates/itc.png",
+    color: "#F48024",
+  },
 ];
 
 export const categories = ["All", ...new Set(certificates.map(c => c.category))];
