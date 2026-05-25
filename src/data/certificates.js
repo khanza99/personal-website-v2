@@ -95,9 +95,9 @@ const certificates = [
   {
     id: 10,
     title: "Certificate of Appreciation for Attending International Trade Challenge Competition 2026",
-    issuer: "Sekolah Tunas Harapan Bogor",
+    issuer: "Prestasi Junior Indonesia",
     date: "2025",
-    category: "Art & Music",
+    category: "Finance",
     file: "/certificates/sertif-peserta-itc.pdf",
     thumbnail: "/certificates/itc.png",
     color: "#F48024",
